@@ -45,6 +45,49 @@
 
 >- Para kavramı var; Değerli malzemeler veya kaynakları satışıyla elde ediliyor. Para, değerli malzemeler veya kaynakları satın almak için kullanılır.
 
+# Koalisyonlar;
+
+>- **Aegis koasliyonu;**
+Çoğunluka savunma kendi bölgelerini savunuyorlar kendi yönetikleri yerleri. bölgesi çoğunluka sol sistemden 100LY uzaklıktır.
+
+>- **Harmonia;**
+Barış yanlısılar bir barış anlaşması yapar iken ortaya çıkabiliyorlar bir anoamly ile veya koasliyonlar arasında bir anlaşmazlık da olabilir.bölgesi çoğunluka sol sistemin 200LY uzaklıktır.
+
+>- **Curiositas;**
+Çoğunlukla Keşif odaklıdır bir gezegenleri veya sistemlerini keşfeter ve oraları yönetir ve tek başına nasıl savunulcağını iyi bilir. Bazıları da bilimsel araştırmalar yaparlar.Bölgesi çoğunluka sol sistemin 300LY uzaklıktır.
+
+# Koalisyon Yönetimi ve Savaş Mantığı;
+>- **Sınırlar ve Bölgesel Hakimiyet;**
+* Her koalisyonun belirli bir galaktik etkisi var (Aegis → yakın yıldızlar, Harmonia → orta mesafe, Curiositas → uzak ve keşif bölgeleri).
+
+* Ancak bu bölgeler mutlak değil, içlerinde başka koalisyonun etkisi olabiliyor.
+
+* Bu bölgelerde demokratik seçim veya yerel özerklik sistemi var; halk veya yerel yönetimler hangi koalisyonu tercih ediyorsa o koalisyonun yönetimi geçerli oluyor.
+
+>- Savaş ve Çatışma Mantığı;
+
+* Koalisyonlar galaktik ölçekte iç içe geçmiş bölgelerde savaşabilir, ama “sen benim bölgedesin diye otomatik saldırı” yok.
+
+* Çatışmalar, stratejik kaynaklar, teknoloji veya politik avantaj için çıkıyor.
+
+* Eğer bir koalisyonun askeri gücü diğerinden zayıfsa, darbe veya zorla el değiştirme riski doğuyor.
+
+* Yani, demokratik seçim var ama askeri baskı veya darbe sonucu yönetim değişebilir.
+
+>- İç Savaş Dinamiği;
+
+* Bir sistem veya gezegen, koalisyonların etkisi altındaysa ama kendi seçimlerini yapıyorsa, iç savaş benzeri durumlar ortaya çıkabilir.
+
+* Bu durum sınırların sürekli değişmesine ve koalisyonlar arası mücadeleye yol açar.
+
+>- Demokratik Seçimler vs Askeri Baskı;
+
+* Normal şartlarda seçimler geçerli, halk kendi koalisyonunu seçebilir.
+
+* Ama güçlü bir koalisyon, zayıf bir koalisyonun kontrolündeki sistemi askeri güçle ele geçirebilir.
+
+* Bu şekilde hem demokrasi hem de askeri gerçekler bir arada işliyor.
+
 # Mantık veya Tutarlılık hatası sanıla bilcek şeyler;
 
 >- Ömürler: Elf ve cücelerde verilen bilimsel gelişme sonrası ömürler çok uzun, belki “gelecek teknolojiler veya biyolojik modifikasyon **[kendi evrimini değiştirme gibi düşünün dna modifikasyonu gibi]**" şeklindedir.
