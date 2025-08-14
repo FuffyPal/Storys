@@ -43,7 +43,7 @@
 
 >- Anomalyler araştırılıyor, korunuyor ve bazen bilgi paylaşılıyor; örneğin DNA veya bakterilerle yeni bilgi üretiyorlar.
 
->- Para kavramı yok; değerli malzemeler veya kaynaklar örnek olarak veriliyor. Irklar ihtiyaçlarını bağış veya takas yoluyla karşılıyor.
+>- Para kavramı var; Değerli malzemeler veya kaynakları satışıyla elde ediliyor. Para, değerli malzemeler veya kaynakları satın almak için kullanılır.
 
 # Mantık veya Tutarlılık hatası sanıla bilcek şeyler;
 
