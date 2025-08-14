@@ -21,7 +21,7 @@ Bu repo, topluluğumuzda yazılmış ve geliştirilmeye devam eden hikayeleri ba
 - Yeni bir hikaye eklemek veya katkı yapmak için `Pull Request` gönderebilirsiniz.
 
 ### 📜 Lisans
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC BY-SA 4.0](https://github.com/FuffyPal/Storys?tab=License-1-ov-file)
 
 ---
 
@@ -41,7 +41,7 @@ This repository contains stories written and developed within our community.
 - To add a new story or contribute, submit a `Pull Request`.
 
 ### 📜 License
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC BY-SA 4.0](https://github.com/FuffyPal/Storys?tab=License-1-ov-file)
 
 ---
 
@@ -61,4 +61,4 @@ Dieses Repository enthält Geschichten, die innerhalb unserer Community geschrie
 - Um eine neue Geschichte hinzuzufügen oder beizutragen, senden Sie bitte einen `Pull Request`.
 
 ### 📜 Lizenz
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC BY-SA 4.0](https://github.com/FuffyPal/Storys?tab=License-1-ov-file)
